@@ -159,4 +159,4 @@ This is a fullstack CRUD application for managing recipes. It includes:
 ### How to Run
 1. Clone the repository
 2. Run `docker-compose up` in the root directory
-3. Open your browser to http://localhost:3000
+3. Open your browser to http://localhost:5173/
